@@ -5,7 +5,7 @@ This project focuses on building a machine learning-based system to detect and c
 Data Preprocessing: Handling missing values, label encoding, feature scaling, and correlation analysis for feature selection.
    
 Model Training: Implementation of multiple supervised learning models including:
-
+  
 Logistic Regression
   
 Random Forest
