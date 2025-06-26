@@ -7,7 +7,7 @@ Data Preprocessing: Handling missing values, label encoding, feature scaling, an
 Model Training: Implementation of multiple supervised learning models including:
   
 Logistic Regression
-  
+   
 Random Forest
 
 Support Vector Machines (SVM)
