@@ -9,7 +9,7 @@ Model Training: Implementation of multiple supervised learning models including:
 Logistic Regression
    
 Random Forest
-
+   
 Support Vector Machines (SVM)
 
 XGBoost
