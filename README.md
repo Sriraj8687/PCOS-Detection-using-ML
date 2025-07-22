@@ -1,6 +1,6 @@
 # 🧠 PCOS Detection and Classification using Machine Learning
 This project focuses on building a machine learning-based system to detect and classify Polycystic Ovary Syndrome (PCOS) using clinical, hormonal, and lifestyle data. The goal is to support early diagnosis and empower medical professionals with predictive insights.
- 
+  
 # 🔍 Key Features
 Data Preprocessing: Handling missing values, label encoding, feature scaling, and correlation analysis for feature selection.
      
